@@ -1,0 +1,26 @@
+_repo: The-Republic-of-Costa-Rica_70725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Niederlein, Gustavo
+    gutenberg_agent_id: '55887'
+    url: http://www.gutenberg.org/2009/agents/55887
+description: ''
+gutenberg_issued: '2023-05-09'
+identifiers:
+  gutenberg: '70725'
+language: en
+pgterms:marc905: 20080802123245niederlein
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: John Campbell, Adrian Mastronardi and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bPhiladelphia Commercial Museum, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Republic of Costa Rica
+url: http://www.gutenberg.org/ebooks/70725
