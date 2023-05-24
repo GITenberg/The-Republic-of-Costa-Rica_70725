@@ -1,11 +1,16 @@
 _repo: The-Republic-of-Costa-Rica_70725
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70725-h/images/cover.jpg
 creator:
   author:
     agent_name: Niederlein, Gustavo
     gutenberg_agent_id: '55887'
     url: http://www.gutenberg.org/2009/agents/55887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70725#The-Republic-of-Costa-Rica
 gutenberg_issued: '2023-05-09'
 identifiers:
   gutenberg: '70725'
